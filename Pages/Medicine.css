@@ -20,3 +20,9 @@ img{
 .row{
     margin-top: 40px;
 }
+
+.container-fluid{
+    background-color: dodgerblue;
+    color: white;
+    margin-bottom: 0px;
+}
