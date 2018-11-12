@@ -9,5 +9,5 @@ Very few grammatical and spelling mistakes throughout the webpages. **(Mark: Out
 4. **Validity of HTML:** 
 The webpages are all in valid HTML aside from the education page where I found three mistakes made regarding tags. **(Mark: Outstanding)**
 5. **Evidence of Collaborating:** 
-No-one entered there own author information, however only 2 people in the group did the author info for the entire gorup. The work was not completed 
+No-one entered their own author information, however only 2 people in the group did the author info for the entire gorup. The work was not completed 
 until the last minute however it seems that everyone equally contributed towards the webpages that they created. **(Mark: Acceptable)**
