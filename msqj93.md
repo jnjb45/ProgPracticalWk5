@@ -1,7 +1,7 @@
-# Peer Review
+## Peer Review
 
 1. **Interest of Content:**
-The content covers a range of different positive applications of computer science and is very engaging. **(Mark: Good)**
+The content covers a range of different positive applications of computer science and is very engaging. **(Mark: Very Good)**
 2. **Consistency and quality of visual presentation:**
 The formatting of the webpages is consistent throughout. Also it is visually pleasing. **(Mark: Good)**
 3. **Quality of written presentation:**
