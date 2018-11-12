@@ -20,7 +20,10 @@ img{
 }
 
 .container-fluid{
-    background-color: dodgerblue;
     color: white;
     margin-bottom: 0px;
+}
+
+.fixed-bottom{
+    background-color: dodgerblue;
 }
